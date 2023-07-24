@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: superBlog
+subtitle: '朱永超的博客'
+description: '记录工作中的内容'
 keywords:
 author: John Doe
 language: en
