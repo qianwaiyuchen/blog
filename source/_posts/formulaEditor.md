@@ -10,7 +10,7 @@ tags:
 # 公式编辑器（可交互）
 
 ## 1、react-mathquill
-
+{% dplayer "formula" url="/assets/video/formula.mp4"  custom="{width: '100px', height: '100px'}" %}
 ```npm
 $ yarn add react-mathquill
 $ yarn add antd

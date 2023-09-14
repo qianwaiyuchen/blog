@@ -13,7 +13,7 @@ tags:
 # 打印文件
 
 ## 1、html2canvas&&JsPDF
-
+{% dplayer "formula" url="/assets/video/toPDF.mp4"  custom="{width: '100px', height: '100px'}" %}
 ```
 $ yarn add html2canvas
 $ yarn add jspdf
