@@ -5,8 +5,7 @@ title: 如何解析h265(HEVC)格式视频
 date: 2023-07-25 09:25:42
 
 tags: 
-- h265 
-- HEVC 
+- h265/HEVC
 ---
 
 
