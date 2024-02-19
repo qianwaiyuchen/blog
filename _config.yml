@@ -102,6 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://gitee.com/take-a-bath-in-the-morning/super-blog.git
-  branch: main
+  # type: git
+  # repo: https://gitee.com/take-a-bath-in-the-morning/super-blog.git
+  # branch: main
